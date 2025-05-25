@@ -207,7 +207,7 @@ def main():
     # backup_collection()
     # reset_category_classification()
     # reset_action_classification()
-    clear_notification_status()
+    # clear_notification_status()
     # clear_user_feedback()
 
 if __name__ == "__main__":
