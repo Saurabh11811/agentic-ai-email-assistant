@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Wed May 21 18:42:54 2025
-
-@author: saurabh.agarwal
-"""
 
 import datetime
 from pymongo import MongoClient

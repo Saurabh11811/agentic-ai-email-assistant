@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Wed May 21 21:23:29 2025
-
-@author: saurabh.agarwal
-"""
 
 import subprocess
 import json

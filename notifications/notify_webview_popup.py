@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Thu May 22 13:04:23 2025
-
-@author: saurabh.agarwal
-"""
 
 import webview
 import platform

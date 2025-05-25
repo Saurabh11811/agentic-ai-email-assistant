@@ -27,15 +27,6 @@ def notify_mac_summary_popup(emails, link=None):
     title = "Email Summaries"
     subtitle = format_mac_popup_summary(emails)  # FYI: total + label split
     
-    # Notifier.notify(
-    #     message=subtitle,
-    #     title=title,
-    #     group="email-summary",
-    #     sound="Pop",
-    #     open=link if link else None  # ✅ only adds open if link is provided
-    # )
-    
-    
     kwargs = {
         "message": subtitle,
         "title": title,

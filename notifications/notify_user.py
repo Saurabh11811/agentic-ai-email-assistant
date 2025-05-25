@@ -30,7 +30,6 @@ from collections import Counter
 import json
 from config_agentic import NOTIFY_MODE, NOTIFICATION_LABELS, MONGO_COLLECTION
 from notifications.notify_mac_popup import notify_mac_summary_popup
-#from notifications.notify_flask_popup import notify_and_open_summary
 from notifications.notify_webview_popup import start_webview
 from utils.mongo_connection import get_mongo_collection
 

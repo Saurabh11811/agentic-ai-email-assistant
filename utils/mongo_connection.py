@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Wed May 21 16:10:31 2025
-
-@author: saurabh.agarwal
-"""
 
 from pymongo import MongoClient
 from config_agentic import MONGO_URI, MONGO_DB, VERBOSE

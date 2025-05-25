@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Wed May 21 20:10:38 2025
-
-@author: saurabh.agarwal
-"""
 
 from EmailCategoryClassifier import main as classify_categories
 from EmailActionClassifier import main as classify_actions

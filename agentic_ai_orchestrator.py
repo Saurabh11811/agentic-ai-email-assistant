@@ -1,15 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Thu May 22 17:44:14 2025
-
-@author: saurabh.agarwal
-"""
-
-"""
-Agentic AI Orchestrator
-Runs: Fetch → Classify → Notify
-"""
 
 from config_agentic import (
     EMAIL_ENABLED_GMAIL,

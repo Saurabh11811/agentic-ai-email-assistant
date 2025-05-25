@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sun May 25 01:16:00 2025
-
-@author: saurabh.agarwal
-"""
 
 # flask_time_server.py
 
