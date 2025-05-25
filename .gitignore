@@ -1,3 +1,22 @@
+#some files which are transactional and not needed to checkin
+*.xlsx
+test.py
+done_folders.json
+credentials.json
+last_fetch_timestamp.json
+last_fetch_timestamp_gmail.json
+session_ids.json
+token.json
+.env
+gmail_credentials.json
+gmail_token.json
+last_fetch_timestamp_hotmail.json
+.DS_Store
+.msal_token_cache.bin
+last_fetch_timestamp_gmail.json
+last_fetch_timestamp_hotmail.json
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

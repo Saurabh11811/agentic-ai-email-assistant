@@ -1,0 +1,1 @@
+pymongomsalpyncflaskPyWebviewgoogle-api-python-client google-auth-httplib2 google-auth-oauthlibpython-dotenvbeautifulsoup4waitress==2.1.2
